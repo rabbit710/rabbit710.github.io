@@ -1,0 +1,4 @@
+eploy:
+  type: git
+  repo: git@github.com:rabbit710/rabbit710.github.io.git # 库地址
+  branch: main # 分支名称
