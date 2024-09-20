@@ -18,8 +18,7 @@
 - themes/
 - node_modules/
 - .gitignore
-- _config.fluid.yml 主题配置，目前所用的是fluid主题
-- _config.landscape.yml 主题配置
-- _config.yml 站点配置
+- _config.fluid.yml 主题配置，目前所用的是fluid主题，
+- _config.yml 站点配置（默认）
 - package-lock.json
 - package.json
