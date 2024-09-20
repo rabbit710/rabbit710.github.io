@@ -10,6 +10,7 @@ keywords:
 author: Jason Young
 language: zh-CN  # 指定语言，会影响主题显示的语言，按需修改
 timezone: ''
+theme: fluid  # 指定主题 https://github.com/fluid-dev/
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -96,7 +97,6 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid  # 指定主题 https://github.com/fluid-dev/
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
