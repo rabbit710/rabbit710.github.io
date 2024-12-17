@@ -18,6 +18,8 @@ github.io是github里面一种特殊的代码仓库模板，给用户专门搭�
 MacBook Pro 2021
 芯片：Apple M1 Pro
 MacOS：14.6.1 (23G93)
+npm版本：8.19.4
+node版本：v16.20.2
 https://github.com/rabbit710/rabbit710.github.io?tab=readme-ov-file
 
 
@@ -38,3 +40,6 @@ hexo还有很多主题可以选择（其实就是hexo的皮肤），我选择的
 ## 第四步、写文章
 在本地文件目录的 _posts 文件夹下面写文章，按照hexo的格式来、然后结合自己的喜好做一些微调即可
 
+## 第五步、本地测试
+cd进入项目根目录，然后输入`hexo server`命令，就会在本地启动这个node.js服务
+然后在本地进行调试；觉得ok之后就可以commit到github了

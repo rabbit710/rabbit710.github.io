@@ -36,6 +36,8 @@ docker的安装方式下，nebula studio这个图形化界面也是自动安装�
 
 
 ## 第二步、启动nebula
+> TODO: 这里急需一个图库来存储图片，例如腾讯微云
+
 <img src="https://raw.githubusercontent.com/rabbit710/rabbit710.github.io/refs/heads/main/source/_posts/2024/images/Nebula-01.png" width="100%" height="100%" title="启动nebula" alt="启动nebula"/>
 
 如上图所示，在docker.app中可以直接启动nebula。然后可以在本地浏览器进入图形化界面。
