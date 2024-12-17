@@ -2,13 +2,13 @@
 title: Gitbook的配置方式
 subtitle: Gitbook的配置方式
 date: 2024-09-10
-categories: 技术
+categories: 技术总结
 tags: 
 ---
 
 
 # 背景
-想搭建一个自己的博客站点，正在调研Gitbook。
+想搭建一个自己的博客站点，正在调研Gitbook。结论是：Gitbook顾名思义是写书的、然后快速发布到网上；因此它的前端样式比较死板。但我想配置更加灵活的前端展示方式，因此不选择Gitbook。
 
 
 # 环境

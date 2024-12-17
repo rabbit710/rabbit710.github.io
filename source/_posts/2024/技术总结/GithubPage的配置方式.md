@@ -2,7 +2,7 @@
 title: GithubPage的配置方式
 subtitle: GithubPage的配置方式
 date: 2024-09-20
-categories: 技术
+categories: 技术总结
 tags: 
 ---
 

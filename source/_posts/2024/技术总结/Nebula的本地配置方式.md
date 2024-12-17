@@ -2,7 +2,7 @@
 title: Nebula的本地配置方式
 subtitle: Nebula的本地配置方式
 date: 2024-07-20
-categories: 技术
+categories: 技术总结
 tags: 
 ---
 
