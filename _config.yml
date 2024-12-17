@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: false  # https://hexo.io/zh-cn/docs/asset-folders 管理文章中的图片资源
 relative_link: false
 future: true
 syntax_highlighter: highlight.js

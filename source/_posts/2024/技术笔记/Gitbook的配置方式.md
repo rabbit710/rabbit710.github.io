@@ -1,3 +1,12 @@
+---
+title: Gitbook的配置方式
+subtitle: Gitbook的配置方式
+date: 2024-09-10
+categories: 技术
+tags: 
+---
+
+
 # 背景
 想搭建一个自己的博客站点，正在调研Gitbook。
 

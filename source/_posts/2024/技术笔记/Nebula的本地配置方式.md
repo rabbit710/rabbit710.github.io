@@ -1,3 +1,12 @@
+---
+title: Nebula的本地配置方式
+subtitle: Nebula的本地配置方式
+date: 2024-07-20
+categories: 技术
+tags: 
+---
+
+
 # 背景
 Nebula是一款国人开发的图数据库，简单好用、试用免费、中文社区活跃，因此我选择nebula来对数据血缘关系做可视化。
 
@@ -27,13 +36,17 @@ docker的安装方式下，nebula studio这个图形化界面也是自动安装�
 
 
 ## 第二步、启动nebula
-![启动nubula](Nebula的本地配置方式-01.png)
+![11](images/Nebula%E7%9A%84%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE%E6%96%B9%E5%BC%8F-01.png)
+
+
+<img src="https://github.com/rabbit710/rabbit710.github.io/blob/main/source/_posts/2024/%E6%8A%80%E6%9C%AF/Nebula%E7%9A%84%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE%E6%96%B9%E5%BC%8F-01.png?raw=true " width="100%" height="100%" title="启动nebula" alt="启动nebula"/>
 
 如上图所示，在docker.app中可以直接启动nebula。然后可以在本地浏览器进入图形化界面。
 
 
 ## 第三步、新建空间、导入图数据
 从这一步就可以导入自己的业务数据了。
+参考：https://docs.nebula-graph.com.cn/3.8.0/nebula-studio/quick-start/st-ug-import-data/
 
 
 ## 第四步、使用图数据库
@@ -44,6 +57,6 @@ docker的安装方式下，nebula studio这个图形化界面也是自动安装�
 
 ## 使用`docker-compose up -d`第一次启动容器时报错
 报错日志为
-`Error response from daemon: Head "https://registry-1.docker.io/v2/vesoft/nebula-console/manifests/v3.5": Get "https://auth.docker.io/token?account=mesong&scope=repository%3Avesoft%2Fnebula-console%3Apull&service=registry.docker.io": tls: failed to verify certificate: x509: certificate is valid for *.atlassolutions.com, *.atdmt.com, *.atdmt2.com, *.atlassbx.com, *.xx.atlassbx.com, atdmt.com, atdmt2.com, atlassbx.com, atlassolutions.com, xx.atlassbx.com, not auth.docker.io`
+> Error response from daemon: Head "https://registry-1.docker.io/v2/vesoft/nebula-console/manifests/v3.5": Get "https://auth.docker.io/token?account=mesong&scope=repository%3Avesoft%2Fnebula-console%3Apull&service=registry.docker.io": tls: failed to verify certificate: x509: certificate is valid for *.atlassolutions.com, *.atdmt.com, *.atdmt2.com, *.atlassbx.com, *.xx.atlassbx.com, atdmt.com, atdmt2.com, atlassbx.com, atlassolutions.com, xx.atlassbx.com, not auth.docker.io
 
 本质原因是网络连接不是，docker官方在202408把中国列为禁用地区，因此国内是连接不到docker官方的软件源的。参考这个文档切换可用的docker源 `https://github.com/DaoCloud/public-image-mirror/issues/2328`
