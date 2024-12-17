@@ -36,10 +36,7 @@ docker的安装方式下，nebula studio这个图形化界面也是自动安装�
 
 
 ## 第二步、启动nebula
-![11](images/Nebula%E7%9A%84%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE%E6%96%B9%E5%BC%8F-01.png)
-
-
-<img src="https://github.com/rabbit710/rabbit710.github.io/blob/main/source/_posts/2024/%E6%8A%80%E6%9C%AF/Nebula%E7%9A%84%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE%E6%96%B9%E5%BC%8F-01.png?raw=true " width="100%" height="100%" title="启动nebula" alt="启动nebula"/>
+<img src="https://github.com/rabbit710/rabbit710.github.io/blob/main/source/_posts/2024/images/Nebula-01.png?raw=true" width="100%" height="100%" title="启动nebula" alt="启动nebula"/>
 
 如上图所示，在docker.app中可以直接启动nebula。然后可以在本地浏览器进入图形化界面。
 
