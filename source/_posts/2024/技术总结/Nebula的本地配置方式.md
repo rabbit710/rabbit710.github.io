@@ -36,7 +36,7 @@ docker的安装方式下，nebula studio这个图形化界面也是自动安装�
 
 
 ## 第二步、启动nebula
-<img src="https://githubpage-1304373050.cos.ap-guangzhou.myqcloud.com/20240720-nebula-01.png?q-sign-algorithm=sha1&q-ak=AKIDyKZNmdAmn8u8b6mtTMbd35HfIhEM94wF9CCZmZ5XqrSrQ-cvlnstje3HJR6iYOnq&q-sign-time=1734763002;1734766602&q-key-time=1734763002;1734766602&q-header-list=host&q-url-param-list=ci-process&q-signature=d4a5aea8fd93773be3c004b792193a951283e789&x-cos-security-token=FKU6owAB2SczzOvs1ZFQzK7wxVGwN3ka9e238a28b71012a24434adac3a44d213VQGZWJSRzACSLyAXQ_FNTQ-IPXZGYHOvOxGbILt-3ki7ZDS-d-2YvTloFF7AbnuJFeQUU0Jhevpc3SzGr_8m-BPFm4fspemR-H3M9VqHPzEVdC_glyCRPe10X8l5dMz7o9-TP5vq917L7FEa-D4U_RjBswUaHOt6-cJhPPK6iXiqHFxHKihh0ity04MuGTR3&ci-process=originImage" width="100%" height="100%" title="启动nebula" alt="启动nebula"/>
+<img src="https://githubpage-1304373050.cos.ap-guangzhou.myqcloud.com/20240720-nebula-01.png" width="100%" height="100%" title="启动nebula" alt="启动nebula"/>
 
 如上图所示，在docker.app中可以直接启动nebula。然后可以在本地浏览器进入图形化界面。
 

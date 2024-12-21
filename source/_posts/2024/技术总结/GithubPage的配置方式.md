@@ -83,9 +83,9 @@ hexo server  # 启动博客，即可在浏览器打开
 
 通过npm安装好hexo之后，输入`hexo server`启动报错，如下图所示
 
-<img src="https://githubpage-1304373050.cos.ap-guangzhou.myqcloud.com/20240920-githubpage-01.png?q-sign-algorithm=sha1&q-ak=AKIDiIS4FnWA6THWAZCFWxpn86XUO7H4GR8G89iaAmain3_2He0SO4GdWzx0RN4Nq1Cx&q-sign-time=1734763140;1734766740&q-key-time=1734763140;1734766740&q-header-list=host&q-url-param-list=ci-process&q-signature=90e753d6174cfa777d0488f7d26b7502a9982b94&x-cos-security-token=Ru5RBfbPLr9I79dfxau61fHubtO0fv9a33d29a7ed38bfa3d96b02940ec4e358e40dMl5_kcVgoI37hZwbYdK8Gf_yapUnXeNZ7nxezRWGTerCLvFHOSI4PbE75m1kHa7c7Jd3EaoF7Ox6oFvsj00p8BFN6CAzL99EklbufvQOWr4sIggdxDrA6O9ommQbc40IaTTO2Q1aJQI72NAhXQnb9akpWgTxKwjWpEeL7xKn5esd-6izh0tb15hVbVErs&ci-process=originImage" width="100%" height="100%" title="报错" alt="报错"/>
+<img src="https://githubpage-1304373050.cos.ap-guangzhou.myqcloud.com/20240920-githubpage-01.png" width="100%" height="100%" title="报错" alt="报错"/>
 
 解决办法是调整windows11中的开发者选项，如下图所示
 
-<img src="https://githubpage-1304373050.cos.ap-guangzhou.myqcloud.com/20240920-githubpage-02.png?q-sign-algorithm=sha1&q-ak=AKIDesYqAomBdQ-Q_tofWVSQhvyDwGBg2HRksyaxFF5dvRXo4NFPqnTbHCpf5e7JpTQ_&q-sign-time=1734763178;1734766778&q-key-time=1734763178;1734766778&q-header-list=host&q-url-param-list=ci-process&q-signature=4650e722bb01795740c9e04b793d86b39df5c6dc&x-cos-security-token=1c2o3Qqx32P72eZRGBgxNjVfcDCUYAQa6793e3c3174b72987594a959257d8476DJDECAQ3F7dLC5YBAykLYXF0DramgMMeXM4AWP6-bk-oPwkoQHaq-0Ee8LHEDxGbgelzOcefHjMxrVVlT7wblkPsrhxvvIQkvffXI_Ei9UM9GKW-nsAA2ZLljJZvFs0kTqMTBfF6nCBWEkqUw5fzGURvnTvzkIcz7pG-f0OR9E_rpAq91G-PUzEClummplml&ci-process=originImage" width="100%" height="100%" title="报错" alt="报错"/>
+<img src="https://githubpage-1304373050.cos.ap-guangzhou.myqcloud.com/20240920-githubpage-02.png" width="100%" height="100%" title="报错" alt="报错"/>
 
